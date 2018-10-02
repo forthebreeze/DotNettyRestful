@@ -1,0 +1,8 @@
+packages/
+.vs/
+Debug/
+Release/
+*.user
+*.sln.cache
+*.userosscache
+*.suo
